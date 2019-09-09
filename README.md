@@ -115,6 +115,6 @@ static/media 를 이용한 포트폴리오 관리 (이미지저장에 관한 기
 
 
 ## 7. Contact
-* FAQ❔: [This repository Issue](https://github.com/subinio)
+* FAQ❔: [This repository Issue](https://github.com/subinio/PROJECT_DjangoBlog/issues/2)
 * mail✉️ : subinjin22@gmail.com
 
