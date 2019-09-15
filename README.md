@@ -86,7 +86,7 @@ static/media 를 이용한 포트폴리오 관리 (이미지저장에 관한 기
 * Window10
 * visual code
 * Python (Django web framwork)
-* sqlLite3
+* MYSQL
 
 <br>
 
